@@ -1,1 +1,1 @@
-# bank-churnb-modelling-using-ann
+# bank-churn-modelling-using-ann
